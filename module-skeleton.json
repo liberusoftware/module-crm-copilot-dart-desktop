@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-copilot-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-copilot",
+  "presentation": "dart-desktop",
+  "package": "module_crm_copilot_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/crm-copilot.md",
+  "presentationPlan": "projects/crm/features/crm-copilot.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
